@@ -20,10 +20,4 @@ itself. When GitHub can't be reached it asks ncm.miaou.si, which mirrors the lat
 
 ## Screenshots
 
-<img src="screenshots/1-home.png" width="240">
-<img src="screenshots/2-music.png" width="240">
-<img src="screenshots/3-player.png" width="240">
-<img src="screenshots/4-lyrics.png" width="240">
-<img src="screenshots/5-me.png" width="240">
-<img src="screenshots/6-playlist.png" width="240">
-<img src="screenshots/7-settings.png" width="240">
+<p><img src="screenshots/1-home.png" width="200"> <img src="screenshots/2-music.png" width="200"> <img src="screenshots/3-player.png" width="200"> <img src="screenshots/4-lyrics.png" width="200"> <img src="screenshots/5-me.png" width="200"> <img src="screenshots/6-playlist.png" width="200"> <img src="screenshots/7-settings.png" width="200"> </p>
